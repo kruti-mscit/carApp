@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CarApp</string>
+
+    <string-array name="car_types">
+        <item>SUV</item>
+        <item>MUV</item>
+        <item>Sedan</item>
+        <item>Hatchback</item>
+    </string-array>
+</resources>
